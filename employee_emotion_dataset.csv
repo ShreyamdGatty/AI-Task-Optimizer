@@ -1,0 +1,201 @@
+employee_id,text_message,emotion_label
+EMP042,I feel calm and focused,Stressed
+EMP032,I enjoy collaborating with my team,Motivated
+EMP026,I feel calm and focused,Neutral
+EMP024,I feel calm and focused,Motivated
+EMP006,I feel very happy working on this project,Neutral
+EMP014,I am overwhelmed with work pressure,Happy
+EMP029,I am feeling motivated and productive,Burnout
+EMP048,I feel calm and focused,Happy
+EMP008,I am frustrated with the task assigned,Neutral
+EMP040,Today was stressful with too many deadlines,Stressed
+EMP013,I feel calm and focused,Burnout
+EMP022,I am overwhelmed with work pressure,Motivated
+EMP013,I feel very happy working on this project,Happy
+EMP040,Today was stressful with too many deadlines,Stressed
+EMP021,Workload is making me tired and anxious,Burnout
+EMP043,I feel burned out and need a break,Happy
+EMP046,I enjoy collaborating with my team,Neutral
+EMP033,Today was stressful with too many deadlines,Burnout
+EMP029,Today was stressful with too many deadlines,Burnout
+EMP018,I enjoy collaborating with my team,Neutral
+EMP039,I am feeling motivated and productive,Happy
+EMP002,Today was stressful with too many deadlines,Burnout
+EMP027,I enjoy collaborating with my team,Happy
+EMP008,I feel calm and focused,Motivated
+EMP014,Today was stressful with too many deadlines,Stressed
+EMP021,I enjoy collaborating with my team,Happy
+EMP035,I am feeling motivated and productive,Stressed
+EMP031,I feel burned out and need a break,Stressed
+EMP033,I feel burned out and need a break,Neutral
+EMP035,Everything is going smoothly today,Motivated
+EMP039,I feel very happy working on this project,Neutral
+EMP044,I am frustrated with the task assigned,Burnout
+EMP050,Today was stressful with too many deadlines,Neutral
+EMP031,Workload is making me tired and anxious,Motivated
+EMP026,I enjoy collaborating with my team,Neutral
+EMP004,I am feeling motivated and productive,Happy
+EMP019,I am overwhelmed with work pressure,Happy
+EMP012,I feel very happy working on this project,Stressed
+EMP035,I feel calm and focused,Burnout
+EMP033,I am overwhelmed with work pressure,Burnout
+EMP037,Workload is making me tired and anxious,Neutral
+EMP007,Today was stressful with too many deadlines,Burnout
+EMP031,I feel calm and focused,Burnout
+EMP003,I feel very happy working on this project,Motivated
+EMP009,I feel calm and focused,Happy
+EMP046,Today was stressful with too many deadlines,Stressed
+EMP026,I enjoy collaborating with my team,Burnout
+EMP037,Everything is going smoothly today,Happy
+EMP027,I feel calm and focused,Motivated
+EMP025,I feel calm and focused,Happy
+EMP043,Everything is going smoothly today,Neutral
+EMP006,Everything is going smoothly today,Neutral
+EMP024,Today was stressful with too many deadlines,Neutral
+EMP005,I am frustrated with the task assigned,Neutral
+EMP042,I feel calm and focused,Motivated
+EMP010,I am frustrated with the task assigned,Neutral
+EMP043,I feel burned out and need a break,Happy
+EMP037,I am feeling motivated and productive,Motivated
+EMP049,I enjoy collaborating with my team,Motivated
+EMP002,I enjoy collaborating with my team,Motivated
+EMP008,Workload is making me tired and anxious,Motivated
+EMP047,I enjoy collaborating with my team,Motivated
+EMP026,I feel very happy working on this project,Stressed
+EMP033,I feel calm and focused,Motivated
+EMP035,I feel calm and focused,Burnout
+EMP021,Everything is going smoothly today,Neutral
+EMP038,I feel calm and focused,Happy
+EMP036,I enjoy collaborating with my team,Happy
+EMP012,I am frustrated with the task assigned,Motivated
+EMP021,I feel calm and focused,Motivated
+EMP006,I am feeling motivated and productive,Burnout
+EMP021,I am frustrated with the task assigned,Neutral
+EMP035,Today was stressful with too many deadlines,Burnout
+EMP007,Workload is making me tired and anxious,Neutral
+EMP042,I am frustrated with the task assigned,Neutral
+EMP009,I feel very happy working on this project,Neutral
+EMP011,Today was stressful with too many deadlines,Stressed
+EMP012,Today was stressful with too many deadlines,Happy
+EMP021,I enjoy collaborating with my team,Motivated
+EMP018,I feel burned out and need a break,Burnout
+EMP002,Today was stressful with too many deadlines,Motivated
+EMP045,I feel calm and focused,Stressed
+EMP035,I feel very happy working on this project,Neutral
+EMP021,Today was stressful with too many deadlines,Motivated
+EMP037,I am feeling motivated and productive,Motivated
+EMP001,Everything is going smoothly today,Stressed
+EMP003,Workload is making me tired and anxious,Motivated
+EMP003,I feel very happy working on this project,Motivated
+EMP044,I enjoy collaborating with my team,Burnout
+EMP033,I am frustrated with the task assigned,Motivated
+EMP044,I am overwhelmed with work pressure,Stressed
+EMP025,Everything is going smoothly today,Neutral
+EMP049,Everything is going smoothly today,Burnout
+EMP039,I feel very happy working on this project,Neutral
+EMP019,I am overwhelmed with work pressure,Neutral
+EMP020,I am overwhelmed with work pressure,Neutral
+EMP027,I feel burned out and need a break,Stressed
+EMP050,I enjoy collaborating with my team,Neutral
+EMP012,Everything is going smoothly today,Burnout
+EMP038,I am feeling motivated and productive,Motivated
+EMP019,I feel burned out and need a break,Neutral
+EMP045,I feel very happy working on this project,Neutral
+EMP048,I feel burned out and need a break,Stressed
+EMP045,Today was stressful with too many deadlines,Stressed
+EMP050,I feel very happy working on this project,Neutral
+EMP027,I feel very happy working on this project,Burnout
+EMP007,I feel very happy working on this project,Stressed
+EMP003,Today was stressful with too many deadlines,Burnout
+EMP012,I feel very happy working on this project,Neutral
+EMP020,I am frustrated with the task assigned,Burnout
+EMP021,I am feeling motivated and productive,Motivated
+EMP005,I feel calm and focused,Burnout
+EMP050,I feel burned out and need a break,Neutral
+EMP015,Today was stressful with too many deadlines,Neutral
+EMP039,I feel very happy working on this project,Stressed
+EMP018,I feel very happy working on this project,Happy
+EMP034,I feel burned out and need a break,Neutral
+EMP021,I am feeling motivated and productive,Happy
+EMP022,I am frustrated with the task assigned,Motivated
+EMP012,I enjoy collaborating with my team,Neutral
+EMP045,I feel calm and focused,Happy
+EMP044,I feel very happy working on this project,Happy
+EMP040,I am overwhelmed with work pressure,Motivated
+EMP033,Everything is going smoothly today,Happy
+EMP003,I am frustrated with the task assigned,Neutral
+EMP026,Everything is going smoothly today,Stressed
+EMP038,I feel calm and focused,Motivated
+EMP036,I am overwhelmed with work pressure,Happy
+EMP018,I am feeling motivated and productive,Stressed
+EMP047,I feel burned out and need a break,Motivated
+EMP040,I am feeling motivated and productive,Motivated
+EMP027,I feel burned out and need a break,Burnout
+EMP050,Everything is going smoothly today,Burnout
+EMP026,I am feeling motivated and productive,Happy
+EMP021,I feel very happy working on this project,Motivated
+EMP037,Everything is going smoothly today,Happy
+EMP019,Workload is making me tired and anxious,Neutral
+EMP031,Workload is making me tired and anxious,Burnout
+EMP030,I enjoy collaborating with my team,Stressed
+EMP017,Workload is making me tired and anxious,Motivated
+EMP026,Workload is making me tired and anxious,Happy
+EMP023,I enjoy collaborating with my team,Burnout
+EMP022,I am frustrated with the task assigned,Burnout
+EMP035,I feel very happy working on this project,Neutral
+EMP003,I am overwhelmed with work pressure,Happy
+EMP006,I am overwhelmed with work pressure,Stressed
+EMP002,Workload is making me tired and anxious,Happy
+EMP011,I am overwhelmed with work pressure,Motivated
+EMP013,Today was stressful with too many deadlines,Happy
+EMP018,Today was stressful with too many deadlines,Neutral
+EMP048,I feel calm and focused,Motivated
+EMP041,I feel burned out and need a break,Happy
+EMP019,I feel very happy working on this project,Neutral
+EMP017,I am feeling motivated and productive,Happy
+EMP031,Workload is making me tired and anxious,Neutral
+EMP031,I feel calm and focused,Motivated
+EMP023,Today was stressful with too many deadlines,Neutral
+EMP025,I feel calm and focused,Motivated
+EMP012,I enjoy collaborating with my team,Stressed
+EMP045,I enjoy collaborating with my team,Stressed
+EMP006,Today was stressful with too many deadlines,Stressed
+EMP045,I feel burned out and need a break,Stressed
+EMP004,Everything is going smoothly today,Motivated
+EMP016,I feel burned out and need a break,Stressed
+EMP022,I feel very happy working on this project,Neutral
+EMP021,Everything is going smoothly today,Neutral
+EMP046,I am frustrated with the task assigned,Motivated
+EMP001,Everything is going smoothly today,Happy
+EMP036,I feel calm and focused,Burnout
+EMP030,Everything is going smoothly today,Motivated
+EMP046,Workload is making me tired and anxious,Stressed
+EMP007,Workload is making me tired and anxious,Burnout
+EMP014,I feel very happy working on this project,Neutral
+EMP001,I am frustrated with the task assigned,Motivated
+EMP045,I am feeling motivated and productive,Stressed
+EMP013,I am feeling motivated and productive,Happy
+EMP049,Today was stressful with too many deadlines,Stressed
+EMP029,I enjoy collaborating with my team,Happy
+EMP036,I am feeling motivated and productive,Motivated
+EMP040,Workload is making me tired and anxious,Burnout
+EMP010,I am overwhelmed with work pressure,Stressed
+EMP031,I am feeling motivated and productive,Motivated
+EMP039,I am overwhelmed with work pressure,Happy
+EMP017,Today was stressful with too many deadlines,Burnout
+EMP039,I feel very happy working on this project,Stressed
+EMP019,I am overwhelmed with work pressure,Happy
+EMP010,I enjoy collaborating with my team,Burnout
+EMP014,Everything is going smoothly today,Neutral
+EMP047,I am feeling motivated and productive,Neutral
+EMP030,I am overwhelmed with work pressure,Motivated
+EMP008,I feel very happy working on this project,Happy
+EMP018,Today was stressful with too many deadlines,Burnout
+EMP004,I am overwhelmed with work pressure,Burnout
+EMP048,Workload is making me tired and anxious,Burnout
+EMP046,I feel burned out and need a break,Motivated
+EMP021,I feel very happy working on this project,Burnout
+EMP027,I enjoy collaborating with my team,Neutral
+EMP028,Everything is going smoothly today,Motivated
+EMP010,I enjoy collaborating with my team,Burnout
+EMP039,I feel burned out and need a break,Happy
